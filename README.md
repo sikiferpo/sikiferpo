@@ -1,4 +1,4 @@
-![MasterHead](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vOCgJ_yP6Jc-7kj-9XNAq9j-Q_GrI-fVTIQvMYjo-SrmL7RWCNiL8Q3GHnaYQw2BMpbY0aTutPuKKXvahfE0YXSCb-Ge_Qyp7adAuZ1jqiC9ui2cZ4lA4RmlsHgARU52DAY86OSsuYHLg=w919-h516-p-k-no-nu)
+![MasterHead](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tDX5VyrRu1F7k133zn8VTIlYSXvS4hcVtHJnpzi1aq9_SkbsOVJODVisTqz5KKkjVaqqy6sxgKrGGq3Ct5gN-ZLoHDWvx0fuE5T9KsYaj0NarJZfQ63qePrpuqtc_N4iyle0ktSB8UQwARAnqF_GAjjS48Q_5GnBxONm_BT5uKUFMz-etJwIpCnxSatqQqYpjYuOmslk46iPsv76YS=w919-h516-p-k-no-nu)
 <h1 align="center">Hi 👋, I'm Kieffer P. Santos</h1>
 <h3 align="center">A BS Applied Math student from the University of the Philippines Los Baños<img align="center" alt="Coding" width="400" src="https://c.tenor.com/ZRmKGlWN4XEAAAAC/tenor.gif"></h3>
 
